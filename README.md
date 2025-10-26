@@ -6,7 +6,7 @@ The Serverless file sharing platform allows users to securely upload and downloa
 
 ### Architecture:
 
-![Architecture Diagram][image.png]
+!<img width="1132" alt="Screenshot 2024-07-09 at 10 38 15 PM" src="https://github.com/yeshwanthlm/Serverless-File-Sharing-Platform/assets/66474973/702f29d8-8eca-4d17-9842-e291ff945801">
 
 ### Steps to Build the Project:
 
